@@ -1,0 +1,17 @@
+.container {
+    background-color: white;
+    margin-top: 2rem;
+    padding-top: .1rem;
+}
+
+.recap {
+    flex-basis: 40%;
+}
+
+table tr th {
+    font-weight: inherit !important;
+}
+
+i {
+    cursor: pointer;
+}

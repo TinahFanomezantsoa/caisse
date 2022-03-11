@@ -1,0 +1,55 @@
+.container {
+    background-color: white;
+    margin-top: 1rem;
+    padding-top: .1rem;
+}
+
+.content > div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content .form {
+    flex-basis: 30%
+}
+
+.content .note {
+    flex-basis: 100% !important;
+}
+
+.content_item {
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.content_item .form {
+    flex-basis: 45%;
+    display: flex;
+    justify-content: space-between;
+    padding-right: 3rem;
+}
+
+.btn_cancel {
+    margin-right: 1rem
+}
+
+.content_item .listing {
+    flex-basis: 25%;
+}
+
+.content_item .montant_total {
+    flex-basis: 30%;
+    text-align: right;
+}
+
+table tr th {
+    font-weight: inherit !important;
+}
+
+i {
+    cursor: pointer;
+}

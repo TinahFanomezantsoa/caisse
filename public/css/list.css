@@ -1,0 +1,13 @@
+
+.container {
+    background-color: white;
+    margin-top: 2rem;
+}
+
+.btnEdit {
+    cursor: pointer;
+}
+
+.btnDelete {
+    cursor: pointer;
+}

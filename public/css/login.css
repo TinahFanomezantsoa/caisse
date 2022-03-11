@@ -1,0 +1,27 @@
+.container {
+    height: 60vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 30%;
+    margin-top: 5rem;
+}
+
+.head {
+    text-align: center;
+}
+.head img {
+    width: 30%;
+}
+.container_body {
+    width: 90%;
+}
+.form-group {
+    margin-bottom: 1.7rem;
+}
+
+.error_msg {
+    font-size: 14px;
+    color: #f34747;
+}
